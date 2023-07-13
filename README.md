@@ -12,6 +12,6 @@ I'm a passionate software developer from Nigeria
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, python, MySQL...
+ HTML, CSS, Javascript, ReactJs, Python, MySQL...
 
 
