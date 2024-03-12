@@ -2,7 +2,7 @@
 #  Hi!👋 I'm Englama Kuceli Susan 
 
 
-I'm a passionate software developer from Nigeria
+I'm a passionate software developer from Nigeria based in New York, US.
 
 
 
@@ -12,6 +12,6 @@ I'm a passionate software developer from Nigeria
 
 
 ## 🛠 Skills
- HTML, CSS, Javascript, ReactJs, Python, MySQL...
+ HTML, CSS, Javascript, ReactJs, Python, and SQL
 
 
