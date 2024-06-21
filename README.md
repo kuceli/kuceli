@@ -12,9 +12,13 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 
 ## 📦 Toolbox
  Frontend Development: React, Tailwind,Bootstrap, Material UI, Framer-Motion, HTML, CSS, Javascript
+ 
  Backend Development: Python, Java, SQL, No SQL, PHP
+ 
  Version Control: Git, Github
+ 
  Testing: Postman
+ 
  Others: Scrum, Confluence, Jira, Canva, Figma, Adobe XD
 
 
