@@ -18,16 +18,16 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 ) ![Static Badge](https://img.shields.io/badge/Framer_Motion-grey
 ) ![Static Badge](https://img.shields.io/badge/HTML-grey
 ) ![Static Badge](https://img.shields.io/badge/CSS-grey
-) ![Static Badge](https://img.shields.io/badge/Javascript-grey)
+) 
 
  
- Backend Development: Python, Java, SQL, No SQL, PHP
+ Backend Development: ![Static Badge](https://img.shields.io/badge/Javascript-grey) ![Static Badge](https://img.shields.io/badge/Python-grey) ![Static Badge](https://img.shields.io/badge/Java-grey) ![Static Badge](https://img.shields.io/badge/SQL-grey)  ![Static Badge](https://img.shields.io/badge/PHP-grey)
  
- Version Control: Git, Github
+ Version Control: ![Static Badge](https://img.shields.io/badge/Git-grey) ![Static Badge](https://img.shields.io/badge/GitHub-grey)
  
- Testing: Postman
+ Testing: ![Static Badge](https://img.shields.io/badge/Postman-grey)
  
- Others: Scrum, Confluence, Jira, Canva, Figma, Adobe XD
+ Others: ![Static Badge](https://img.shields.io/badge/Scrum-grey) ![Static Badge](https://img.shields.io/badge/Agile-grey) ![Static Badge](https://img.shields.io/badge/Confluence-grey) ![Static Badge](https://img.shields.io/badge/Jira-grey) ![Static Badge](https://img.shields.io/badge/Canva-grey) ![Static Badge](https://img.shields.io/badge/Figma-grey), ![Static Badge](https://img.shields.io/badge/Adobe_XD-grey)
 
 
 
