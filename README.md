@@ -18,8 +18,8 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 ), [Framer-Motion](https://img.shields.io/badge/Framer_Motion-grey
 ), [HTML](https://img.shields.io/badge/HTML-grey
 ), [CSS](https://img.shields.io/badge/CSS-grey
-), [Javascript](https://img.shields.io/badge/Javascript-grey
-)
+), ![Static Badge](https://img.shields.io/badge/Javascript-grey)
+
  
  Backend Development: Python, Java, SQL, No SQL, PHP
  
