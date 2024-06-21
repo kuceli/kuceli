@@ -11,7 +11,15 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 
 
 ## 📦 Toolbox
- Frontend Development: React, Tailwind,Bootstrap, Material UI, Framer-Motion, HTML, CSS, Javascript
+ Frontend Development: [React](https://img.shields.io/badge/React-grey
+), [Tailwind](https://img.shields.io/badge/Tailwind-grey
+) ,[Bootstrap](https://img.shields.io/badge/Bootstrap-grey
+), [Material UI](https://img.shields.io/badge/Material_UI-grey
+), [Framer-Motion](https://img.shields.io/badge/Framer_Motion-grey
+), [HTML](https://img.shields.io/badge/HTML-grey
+), [CSS](https://img.shields.io/badge/CSS-grey
+), [Javascript](https://img.shields.io/badge/Javascript-grey
+)
  
  Backend Development: Python, Java, SQL, No SQL, PHP
  
