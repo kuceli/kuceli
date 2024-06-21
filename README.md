@@ -27,7 +27,7 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
  
  Testing: ![Static Badge](https://img.shields.io/badge/Postman-grey)
  
- Others: ![Static Badge](https://img.shields.io/badge/Scrum-grey) ![Static Badge](https://img.shields.io/badge/Agile-grey) ![Static Badge](https://img.shields.io/badge/Confluence-grey) ![Static Badge](https://img.shields.io/badge/Jira-grey) ![Static Badge](https://img.shields.io/badge/Canva-grey) ![Static Badge](https://img.shields.io/badge/Figma-grey), ![Static Badge](https://img.shields.io/badge/Adobe_XD-grey)
+ Others: ![Static Badge](https://img.shields.io/badge/Scrum-grey) ![Static Badge](https://img.shields.io/badge/Agile-grey) ![Static Badge](https://img.shields.io/badge/Confluence-grey) ![Static Badge](https://img.shields.io/badge/Jira-grey) ![Static Badge](https://img.shields.io/badge/Canva-grey) ![Static Badge](https://img.shields.io/badge/Figma-grey) ![Static Badge](https://img.shields.io/badge/Adobe_XD-grey)
 
 
 
