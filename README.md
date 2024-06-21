@@ -11,13 +11,13 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 
 
 ## 📦 Toolbox
- Frontend Development: [React](https://img.shields.io/badge/React-grey
-), [Tailwind](https://img.shields.io/badge/Tailwind-grey
-) ,[Bootstrap](https://img.shields.io/badge/Bootstrap-grey
-), [Material UI](https://img.shields.io/badge/Material_UI-grey
-), [Framer-Motion](https://img.shields.io/badge/Framer_Motion-grey
-), [HTML](https://img.shields.io/badge/HTML-grey
-), [CSS](https://img.shields.io/badge/CSS-grey
+ Frontend Development: ![Static Badge](https://img.shields.io/badge/React-grey
+), ![Static Badge](https://img.shields.io/badge/Tailwind-grey
+),![Static Badge](https://img.shields.io/badge/Bootstrap-grey
+), ![Static Badge](https://img.shields.io/badge/Material_UI-grey
+), ![Static Badge](https://img.shields.io/badge/Framer_Motion-grey
+), ![Static Badge](https://img.shields.io/badge/HTML-grey
+), ![Static Badge](https://img.shields.io/badge/CSS-grey
 ), ![Static Badge](https://img.shields.io/badge/Javascript-grey)
 
  
