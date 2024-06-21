@@ -1,8 +1,10 @@
 
-#  Hi!👋 I'm Englama Kuceli Susan 
+#  Hey, I'm Kuceli 👋🏾
 
 
-I'm a passionate software developer from Nigeria based in New York, US.
+I'm a 23-year-old developer based in New York, US, and I'm passioante about crafting digital experiences. 
+
+Check out my [![website]] (https://kucelienglama.netlify.app) to learn more about me. 
 
 
 
