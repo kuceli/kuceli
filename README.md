@@ -12,13 +12,13 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 
 ## 📦 Toolbox
  Frontend Development: ![Static Badge](https://img.shields.io/badge/React-grey
-), ![Static Badge](https://img.shields.io/badge/Tailwind-grey
-),![Static Badge](https://img.shields.io/badge/Bootstrap-grey
-), ![Static Badge](https://img.shields.io/badge/Material_UI-grey
-), ![Static Badge](https://img.shields.io/badge/Framer_Motion-grey
-), ![Static Badge](https://img.shields.io/badge/HTML-grey
-), ![Static Badge](https://img.shields.io/badge/CSS-grey
-), ![Static Badge](https://img.shields.io/badge/Javascript-grey)
+) ![Static Badge](https://img.shields.io/badge/Tailwind-grey
+) ![Static Badge](https://img.shields.io/badge/Bootstrap-grey
+) ![Static Badge](https://img.shields.io/badge/Material_UI-grey
+) ![Static Badge](https://img.shields.io/badge/Framer_Motion-grey
+) ![Static Badge](https://img.shields.io/badge/HTML-grey
+) ![Static Badge](https://img.shields.io/badge/CSS-grey
+) ![Static Badge](https://img.shields.io/badge/Javascript-grey)
 
  
  Backend Development: Python, Java, SQL, No SQL, PHP
