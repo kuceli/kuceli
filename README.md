@@ -19,6 +19,7 @@ Check out my [website](https://kucelienglama.netlify.app) to learn more about me
 ) ![Static Badge](https://img.shields.io/badge/HTML-grey
 ) ![Static Badge](https://img.shields.io/badge/CSS-grey
 ) ![Static Badge](https://img.shields.io/badge/Next.js-grey
+) ![Static Badge](https://img.shields.io/badge/TypeScript-grey
 ) 
 
  
