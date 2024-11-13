@@ -3,7 +3,7 @@
 
 I'm a 23-year-old developer based in Maryland, US, and I'm passioante about crafting digital experiences. 
 
-Check out my [website](https://kucelienglama.netlify.app) to learn more about me. 
+Check out my [website](https://kucelienglama.netlify.app) and my [resume](https://drive.google.com/file/d/15fjg7hwWqRQIvimu0vLA2eBF-E-uJzkJ/view?usp=sharing) to learn more about me. 
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kucelienglama/)
