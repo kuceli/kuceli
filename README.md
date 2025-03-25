@@ -1,7 +1,7 @@
 
 #  Hey, I'm Kuceli 👋🏾
 
-I'm a 23-year-old developer based in Maryland, US, and I'm passioante about crafting digital experiences. 
+I'm a 24-year-old developer based in Maryland, US, and I'm passioante about crafting digital experiences. 
 
 Check out my [website](https://kucelienglama.netlify.app) and my [resume](https://drive.google.com/file/d/15fjg7hwWqRQIvimu0vLA2eBF-E-uJzkJ/view?usp=sharing) to learn more about me. 
 
